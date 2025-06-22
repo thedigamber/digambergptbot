@@ -12,5 +12,5 @@ This is a Telegram bot powered by DeepSeek AI for chatting and OpenAI DALL·E-3 
 
 ```bash
 git clone https://github.com/yourname/digambergpt.git
-cd digambergpt
+cd digambergptbot
 pip install -r requirements.txt
